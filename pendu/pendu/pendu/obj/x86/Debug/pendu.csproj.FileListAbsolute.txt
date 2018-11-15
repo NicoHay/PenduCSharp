@@ -1,0 +1,6 @@
+/home/nicohay/Bureau/cccccccccccc/Projects/pendu/pendu/pendu/bin/Debug/pendu.exe
+/home/nicohay/Bureau/cccccccccccc/Projects/pendu/pendu/pendu/bin/Debug/pendu.pdb
+/home/nicohay/Bureau/cccccccccccc/Projects/pendu/pendu/pendu/obj/x86/Debug/pendu.csprojAssemblyReference.cache
+/home/nicohay/Bureau/cccccccccccc/Projects/pendu/pendu/pendu/obj/x86/Debug/pendu.csproj.CoreCompileInputs.cache
+/home/nicohay/Bureau/cccccccccccc/Projects/pendu/pendu/pendu/obj/x86/Debug/pendu.exe
+/home/nicohay/Bureau/cccccccccccc/Projects/pendu/pendu/pendu/obj/x86/Debug/pendu.pdb
