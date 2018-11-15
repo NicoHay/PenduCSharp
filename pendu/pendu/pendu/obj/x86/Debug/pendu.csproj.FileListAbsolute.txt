@@ -4,3 +4,5 @@
 /home/nicohay/Bureau/cccccccccccc/Projects/pendu/pendu/pendu/obj/x86/Debug/pendu.csproj.CoreCompileInputs.cache
 /home/nicohay/Bureau/cccccccccccc/Projects/pendu/pendu/pendu/obj/x86/Debug/pendu.exe
 /home/nicohay/Bureau/cccccccccccc/Projects/pendu/pendu/pendu/obj/x86/Debug/pendu.pdb
+C:\Users\PC-UNITY\Desktop\Nicolas\penduCsharp\pendu\pendu\pendu\obj\x86\Debug\pendu.exe
+C:\Users\PC-UNITY\Desktop\Nicolas\penduCsharp\pendu\pendu\pendu\obj\x86\Debug\pendu.pdb
